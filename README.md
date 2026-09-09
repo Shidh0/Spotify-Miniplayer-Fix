@@ -1,7 +1,7 @@
 # Spotify-Miniplayer-Fix
  Helps Fix the "You Have Discovered a Premium Feature" in the Spotify web's Pop up Player.
 
-#INSTALL 
+# INSTALL 
 
 Download the code or run this command
  ```
