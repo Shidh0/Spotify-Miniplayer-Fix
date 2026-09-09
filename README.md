@@ -7,5 +7,5 @@ Download the code or run this command
  ```
 git clone https://github.com/Gamingarc16/Spotify-Miniplayer-Fix
  ```
-Then Drag and drop the folder to the extentions tab in chrome 
+Then Drag and drop the folder to the extentions tab in chrome (with developer mode on)
 And Done.
